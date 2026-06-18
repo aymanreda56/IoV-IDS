@@ -1,0 +1,4 @@
+,feature_columns,needs_parsing,constant_cols,info_content,recommendation
+decimal,9,no,none,full,PRIMARY
+hexadecimal,9,yes (hex->int),"Interface, DLC",identical to decimal,consistency check
+binary,153,no,none,identical to decimal,not needed
